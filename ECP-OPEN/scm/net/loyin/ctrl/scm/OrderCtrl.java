@@ -235,7 +235,7 @@ public class OrderCtrl extends AdminBaseController<Order> {
 			String now=dateTimeFormat.format(new Date());
 			po.set("audit_datetime",now);
 			String tablename=this.getPara("table");
-			AuditDetail.dao.save(po,tablename);
+			
 			String company_id=this.getCompanyId();
 			this.getId();
 			Order order=Order.dao.findById(id, company_id);
@@ -243,6 +243,7 @@ public class OrderCtrl extends AdminBaseController<Order> {
 				this.rendJson(false, null, "已经审核过，请勿重复审核！");
 				return;
 			}
+            AuditDetail.dao.save(po,tablename);
 			int ordertype=order.getInt("ordertype");
 			if(po.getInt("audit_status")==2&&ordertype!=4){//不为报价单
 				//生成应收应付单
