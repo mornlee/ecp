@@ -5,6 +5,7 @@
  <br>
  请手机扫描<img src="http://s.loyin.net/alipay.png"width="150px">打赏下。
  欢迎访问我的个人网站 <a href="http://www.loyin.net">http://www.loyin.net</a>
+可以参考热心朋友写的编译及运行的文章 [输入链接说明](http://blog.csdn.net/freewebsys/article/details/49659485)
 <div class="detail TextContent" id="p_fullcontent">
 <p>
 	ECP&nbsp; 是基于<a target="_blank" href="http://www.oschina.net/p/jfinal">jfinal</a>、<a target="_blank" href="http://www.oschina.net/p/avalon">avalon</a>、<a target="_blank" href="http://www.oschina.net/p/bootstrap">bootstrap</a>、<a target="_blank" href="http://www.oschina.net/p/jqgrid">jqGrid</a>、<a target="_blank" href="http://www.oschina.net/p/snaker">snaker</a>工作流开发的客户关系及进销存财务系统。</p><p>
