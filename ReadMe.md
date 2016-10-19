@@ -3,7 +3,8 @@
  <img src="https://img.alipay.com/sys/personalprod/style/mc/btn-index.png">姓名：刘声凤 支付宝账号：loyinonline@163.com<br>
  <b>虽然我不喝咖啡，但可以给我可爱的儿子购买一份小礼物^_^</b>
  <br>
- 请手机扫描<img src="http://s.loyin.net/alipay.png"width="150px">打赏下。
+[项目编译及运行指导博文](http://blog.csdn.net/freewebsys/article/details/49659485)
+感谢热心的博主编写。
  欢迎访问我的个人网站 <a href="http://www.loyin.net">http://www.loyin.net</a>
 可以参考热心朋友写的编译及运行的文章 [输入链接说明](http://blog.csdn.net/freewebsys/article/details/49659485)
 <div class="detail TextContent" id="p_fullcontent">
